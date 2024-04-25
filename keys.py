@@ -1,0 +1,2 @@
+API_ID = 1111
+API_HASH = '11111qwerty'
